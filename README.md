@@ -19,6 +19,7 @@ include   | Header Files
 
 
 2. Execute the following commands in a terminal:
+~~~sh
 git clone https://github.com/SubhroD/GEANT4_HPGe_Simulation.git
 cd GEANT4_HPGe_Simulation-main/
 mkdir build
@@ -26,7 +27,7 @@ cd build/
 cmake ../
 make -jN
 ./exampleB4a
-
+~~~
 
 [ROOT]:https://root.cern.ch
 [GEANT4]:https://geant4.web.cern.ch/
