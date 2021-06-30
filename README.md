@@ -18,5 +18,5 @@ include   | Header Files
 1. Make sure that [ROOT][] (version 6 and above) and GEANT4 (version 10 or above) is installed.
 2. Execute the following commands in a terminal:
 
-git clone https://github.com/jintonic/gefica.git
+git clone https://github.com/SubhroD/GEANT4_HPGe_Simulation.git
 cd 
