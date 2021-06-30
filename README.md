@@ -1,8 +1,8 @@
 # GEANT4_HPGe_Simulation
 
 ## Introduction
-This program is based on GEANT4 simulation for HPGe detector
-Initially Cs-137 source is defined by default.
+This program is based on GEANT4 simulation for HPGe detector.
+Initially Cs-137 source is defined by default. This simulation program only returns specrum of a gamma source.
 
 ## Directories
 
